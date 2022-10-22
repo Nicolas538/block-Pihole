@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV a cabo",Warner Channel
+http://api.magiaiptv.com/live/800371/789594/m4_dguYh1LjBTwlnKecmOPADtoN_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Disney Channel 
+http://api.magiaiptv.com/live/800371/789594/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M
+#EXTINF:-1 group-title="TV a cabo",ANIMAL PLANET FHD
+http://api.magiaiptv.com/live/800371/789594/m1_ZJTh6oMdeOk_720p_2M
+#EXTINF:-1 group-title="TV a cabo",​​DISCOVERY HD+ 
+http://api.magiaiptv.com/live/800371/789594/m3_E3D2EB66-67DF-49EC-8eea_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Animal Planet 
+http://api.magiaiptv.com/live/800371/789594/m1_ZJTh6oMdeOk_1080p
+#EXTINF:-1 group-title="TV a cabo",History
+http://api.magiaiptv.com/live/800371/789594/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p_2M
+#EXTINF:-1 group-title="TV a cabo",FX 
+http://api.magiaiptv.com/live/800371/789594/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M
+#EXTINF:-1 group-title="TV a cabo",GNT 
+http://api.magiaiptv.com/live/800371/789594/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Multishow
+http://api.magiaiptv.com/live/800371/789594/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Off 
+http://api.magiaiptv.com/live/800371/789594/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Space 
+http://api.magiaiptv.com/live/800371/789594/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Syfy
+http://api.magiaiptv.com/live/800371/789594/m1_G24UuG3uNWoYwG_720p
+#EXTINF:-1 group-title="TV a cabo",TNT
+http://api.magiaiptv.com/live/800371/789594/m2_hrXYNmAD2GitKZdq5wlHUjJF_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Cine max
+http://api.magiaiptv.com/live/800371/789594/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p_2M
+#EXTINF:-1 group-title="TV a cabo",Viva FHD
+http://api.magiaiptv.com/live/800371/789594/m3_AB7C8CAC-850F-4582_1080p
+#EXTINF:-1 group-title="TV a cabo",Sexykpop TV
+http://api.magiaiptv.com/live/800371/789594/m2_9EOCjuxykuMtRyJM_720p
+#EXTINF:-1 group-title="TV a cabo",Megapix
+http://axr.life:80/00005733/MF159357C/5242
+#EXTINF:-1 group-title="TV a cabo",Dois homens e meio
+http://pfsv.io:80/pedroguilherme12353/4354357/43870
+
+#EXTINF:-1 group-title="TV aberta",SBT
+http://api.magiaiptv.com/live/800371/789594/m1_DV2bTcq67LA3L7UN_720p_2M
+#EXTINF:-1 group-title="TV aberta",RecordTV
+http://api.magiaiptv.com/live/800371/789594/m3_6zJcLYxLJH3bOq_720p
+#EXTINF:-1 group-title="TV aberta",Globo SP
+http://api.magiaiptv.com/live/800371/789594/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M
+#EXTINF:-1 group-title="TV aberta",Band SP
+http://api.magiaiptv.com/live/800371/789594/m3_3zFNpotNh0Q0iR_720p_2M
