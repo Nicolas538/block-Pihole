@@ -1,22 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV a cabo",Warner Channel
-http://api.magiaiptv.com/live/800349/713534/m4_dguYh1LjBTwlnKecmOPADtoN_720p_2M
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16765
 #EXTINF:-1 group-title="TV a cabo",Off 
-http://api.magiaiptv.com/live/800349/713534/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31160
 #EXTINF:-1 group-title="TV a cabo",Syfy
-http://api.magiaiptv.com/live/800349/713534/m1_G24UuG3uNWoYwG_720p
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31293
 #EXTINF:-1 group-title="TV a cabo",CN CARTOON
-http://api.magiaiptv.com/live/800349/713534/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p_2M
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31479
 #EXTINF:-1 group-title="TV a cabo",Viva FHD
-http://api.magiaiptv.com/live/800349/713534/m3_AB7C8CAC-850F-458_720p_2M
-#EXTINF:-1 group-title="TV a cabo",Sexykpop TV
-http://api.magiaiptv.com/live/800349/713534/m2_9EOCjuxykuMtRyJM_720p
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31630
 
 #EXTINF:-1 group-title="TV aberta",SBT
-http://api.magiaiptv.com/live/800349/713534/m1_DV2bTcq67LA3L7UN_720p_2M
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16749
 #EXTINF:-1 group-title="TV aberta",RecordTV
-http://api.magiaiptv.com/live/800349/713534/m3_6zJcLYxLJH3bOq_720p
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16748
 #EXTINF:-1 group-title="TV aberta",Globo SP
-http://api.magiaiptv.com/live/800349/713534/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16730
 #EXTINF:-1 group-title="TV aberta",Band SP
-http://api.magiaiptv.com/live/800349/713534/m3_3zFNpotNh0Q0iR_720p_2M
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16697
